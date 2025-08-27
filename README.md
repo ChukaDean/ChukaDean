@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChukaDean
-- 👀 I’m interested in Computer Science, Data Analysis and Economics
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on Exciting Web development projects
+- 👀 A Software Engineer, Data  Scientist, and Economist
+- 🌱 I am experienced with building full-stack applications and agentic systems
+- 💞️ I am open to collaborating on impactful projects
 - 📫 How to reach me : E-mail: chukaezeoguine@gmail.com
 
 <!---
